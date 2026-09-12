@@ -1,1 +1,2 @@
-# AGI_with_a_SELF
+# AGI with a SELF
+# 자아를 가진 AGI
